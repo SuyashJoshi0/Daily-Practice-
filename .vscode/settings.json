@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "*.html": "html",
-        "iostream": "c"
+        "iostream": "c",
+        "vector": "cpp"
     }
 }
