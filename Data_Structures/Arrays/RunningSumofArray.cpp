@@ -1,3 +1,21 @@
+/*
+Given an array of size N, find the sum of its elements.
+
+Sample Input 1:
+5
+1 2 3 4 5 
+Sample Output 1:
+15
+Sample Input 2:
+4
+-1 5 3 0
+Sample Output 2:
+7
+
+ */
+
+
+
 #include <iostream>
 using namespace std;
 
