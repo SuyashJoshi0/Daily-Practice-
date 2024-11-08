@@ -17,7 +17,7 @@ int main(){
     int rem;
     bool isPalindrome;
     cin>>n;
-    int originalNumber = n;
+    int givenNumber = n;
 
     while(n>0){
 
@@ -28,7 +28,7 @@ int main(){
     }
     cout<<reverse<<endl;
 
-    if(originalNumber!=reverse){
+    if(givenNumber!=reverse){
         isPalindrome = false;
     }
     else{
