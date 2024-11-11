@@ -6,5 +6,6 @@
         "sstream": "cpp",
         "xstring": "cpp",
         "iosfwd": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "enabled"
 }
