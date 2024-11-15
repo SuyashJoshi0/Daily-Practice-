@@ -64,6 +64,8 @@ Example :
 			}
 
 2] ABSTRACTION:
+	
+	Hiding the complex implementation details and showing only the essential features of an object.
 
 
 
