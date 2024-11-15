@@ -66,6 +66,49 @@ Example :
 2] ABSTRACTION:
 	
 	Hiding the complex implementation details and showing only the essential features of an object.
+	Done using two methods:
+	◉ Abstraction using Classes: 	     using available access specifiers. 
+	◉ Abstraction using Header files :   For eg. Consider the pow() method present in math.h header file
+
+	Advantages: Avoids code duplication and increases reusability, increase the security of an application
+		    New features or changes can be added to the system with minimal impact on existing code.
+
+Example :
+		// C++ Program to Demonstrate the
+		// working of Abstraction
+	
+		#include <iostream>
+		using namespace std;
+
+		class implementAbstraction {
+			private:
+    			int a, b;
+
+			public:
+    		// method to set values of
+    		// private members
+    			void set(int x, int y)
+    			{
+        			a = x;
+        			b = y;
+    			}
+
+    			void display()
+    			{
+        			cout << "a = " << a << endl;
+        			cout << "b = " << b << endl;
+    			}
+		};
+
+		int main()
+		{
+    			implementAbstraction obj;
+    			obj.set(10, 20);
+    			obj.display();
+    			return 0;
+		}
+
+
 
 
 
