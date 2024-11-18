@@ -31,5 +31,5 @@
 *.out
 *.app
 
-#Tasks.json Files
+#Tasks json Files
 *.json
