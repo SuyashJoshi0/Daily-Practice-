@@ -14,6 +14,9 @@ Input: nums = [4,5,6,7,0,1,2], target = 3
 Output: -1
 
 */
+#include <iostream>
+#include <vector>
+using namespace std;
 
 int search(vector<int>& nums, int target) {
         int start = 0;
@@ -45,10 +48,6 @@ int search(vector<int>& nums, int target) {
         
 }
 
-#include <iostream>
-#include <vector>
-using namespace std;
-
 int main(){
 
     int n;
@@ -56,6 +55,14 @@ int main(){
     vector<int>nums(n);
     int target;
     cin>>n;
+    cin>>target;
+
+    for(int i=0;i<n;i++){
+        cin>>nums[i];
+    }
+
+    cout<<"The Index of target after rotation is:"<<endl;
+    cout<<search(nums,target);
     
     return 0;
 }
