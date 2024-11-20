@@ -52,15 +52,15 @@ int main(){
 
     int n;
     cin>>n;
-    vector<int>nums(n);
-    int target;
-    cin>>n;
-    cin>>target;
 
+    vector<int>nums(n);
     for(int i=0;i<n;i++){
         cin>>nums[i];
     }
 
+    int target;
+    cin>>target;
+    
     cout<<"The Index of target after rotation is:"<<endl;
     cout<<search(nums,target);
     
