@@ -1,0 +1,59 @@
+⚝ JAVA NOTES ⚝
+
+• Java is a high level language.
+Low level language » Binary/ Machine Understandable language » Output Code 
+
+• Compilation Phase :  
+	Source Code(.java File) » Compiler » Byte Code(.class File)
+
+• Execution Phase :
+	Byte Code » JVM » Native Code (0 and 1)
+
+🟆 REQUIREMENTS :
+
+1. Java Development kit » JRE  » JVM + libraries
+2. Code Editor(VS Code, IntelliJ, Eclipse)
+
+
+⦿ BASIC Code Template:
+class FirstClass{
+public static void main(String args[]){
+	System.out.println("Hello World");
+	}
+	
+}
+
+
+🟆 Data Types:
+	1. Primitive (fixed size)
+		• byte    8 bits
+		• short   2 bytes
+		• char    2 bytes
+		• Boolean 1 byte
+		• int     4 bytes
+		• float   8 bytes
+		• long    4 bytes
+		• double  8 bytes
+		
+	2. Non Primitive (user defined)
+		• String 
+		• Array
+		• Class
+		• Object
+		• Interface
+
+🟆 For Scanner Class:
+	import java.util.*;
+	public static void main(String args[]){
+	Scanner sc = new Scanner(System.in);
+	String name = sc.next();        // Get the single name from the user in console
+	String name1 = sc.nextLine();   // Get multiple tokens in a single variable
+	// nextInt()  for int input
+	// nextFloat() for float input
+	}
+	
+}
+
+
+
+	
