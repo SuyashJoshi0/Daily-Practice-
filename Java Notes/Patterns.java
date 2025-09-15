@@ -101,3 +101,6 @@ public class Main
 ***
 **
 *
+
+//Inverted Half Pyramid
+
