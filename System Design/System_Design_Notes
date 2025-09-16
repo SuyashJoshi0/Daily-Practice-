@@ -1,1 +1,17 @@
+◉ BASIC TERMINILOGIES :-
 
+• Vertical Scaling :
+  Upgrading a single server by adding more powerful hardware like CPU and RAM 
+  Called as optimizing
+  Simpler to implement
+
+• Horizontal Scaling :
+  Adding more servers to a system to distribute the workload
+  Complex to implement
+
+• Microservice Architecture :
+  Structures application as a collection of small, independently deployable and loosely coupled services.
+  Here loosely coupled means that the services have less dependency on eah other.
+
+• Distributed Systems :
+  Collection of independent, networked computers that act as a single system
