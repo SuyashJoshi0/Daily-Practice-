@@ -14,4 +14,15 @@
   Here loosely coupled means that the services have less dependency on eah other.
 
 • Distributed Systems :
-  Collection of independent, networked computers that act as a single system
+  Collection of independent, networked computers that act as a single system.
+
+• Load Balancing :
+  Process of distributing workloads, such as network traffic or computational tasks across a group of available resources to optimize resource usage and improve performance to ensure high availability of service or application.
+
+• Decoupling :
+
+• Logging and Metrics Calculations :
+
+High Level Design :
+
+Low Level Design :
