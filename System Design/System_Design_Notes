@@ -20,8 +20,11 @@
   Process of distributing workloads, such as network traffic or computational tasks across a group of available resources to optimize resource usage and improve performance to ensure high availability of service or application.
 
 • Decoupling :
+  Principle that reduces inter-dependencies between system components, allowing them to function independently
 
 • Logging and Metrics Calculations :
+  Logs records discrete events and activities within a system.
+  Metrics are quantifiable measurements that provide insights into health, performance and overall functionality of a system.
 
 High Level Design :
 
