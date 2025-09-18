@@ -1,1 +1,10 @@
+Switch virt
+Switch securuty AAA server based, radius , tacacs, dhcp snoofing, dai , dynamic arp
+Routing Concepts and trouble shootingr issues MPLS ILL, rip, eigrp, ospf, bgp
 
+NATTING
+Network sec
+Access control
+
+MPLS, ILL
+Static an d dynamic routing and types
