@@ -27,5 +27,7 @@
   Metrics are quantifiable measurements that provide insights into health, performance and overall functionality of a system.
 
 High Level Design :
+  High-Level Design (HLD) provides a broad High-Level Design (HLD) provides a broad overview of a system's architecture, defining major components and their interactions.
 
 Low Level Design :
+   Low-Level Design (LLD) details the internal logic, algorithms, data structures, and specific implementation of each component to guide developers in building the system. 
