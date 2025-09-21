@@ -1,3 +1,6 @@
 • Cloud Services :
     A cloud storage system is a method for storing digital data on remote servers that are maintained by a third-party provider, 
     rather than on local hard drives or on-premises infrastructure.
+• Scalibilty :
+    Abilty of cloud infra to dynamically handle the amount of computing resources, such as processing power, storage and bandwidth 
+    to meet changing workloads and user demands.(Types vertical and horiizontal)
