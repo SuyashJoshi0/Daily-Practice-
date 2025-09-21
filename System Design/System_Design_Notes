@@ -8,6 +8,7 @@
 • Horizontal Scaling :
   Adding more servers to a system to distribute the workload
   Complex to implement
+  Load Balancing required
 
 • Microservice Architecture :
   Structures application as a collection of small, independently deployable and loosely coupled services.
