@@ -4,3 +4,6 @@
 • Scalibilty :
     Abilty of cloud infra to dynamically handle the amount of computing resources, such as processing power, storage and bandwidth 
     to meet changing workloads and user demands.(Types vertical and horiizontal)
+
+Client Server Architecture:  Image in Readme File
+
