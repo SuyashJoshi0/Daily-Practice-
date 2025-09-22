@@ -5,5 +5,18 @@
     Abilty of cloud infra to dynamically handle the amount of computing resources, such as processing power, storage and bandwidth 
     to meet changing workloads and user demands.(Types vertical and horiizontal)
 
-Client Server Architecture:  Image in Readme File
+● Client Server Architecture:  (Image in Readme File)
+Works on Request Response Model 
+Tier 2 Architecture
+    Client  ⇋   Server
+Client send the request and server responds to the user request with data.
 
+● Types:
+Thin:
+    relies heavily on Central Server for storage and applications
+Thick:
+    Performs most of the data processing and data storage locally.
+    E.g. Outlook
+
+3 Tier Architecture:
+    Client ⇋   Logic  ⇋   Data
