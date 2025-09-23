@@ -20,3 +20,8 @@ Thick:
 
 3 Tier Architecture:
     Client ⇋   Logic  ⇋   Data
+
+Load Balancing:
+
+Consistent Hashing:
+
